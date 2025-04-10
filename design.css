@@ -16,7 +16,7 @@ body {
 /* Style the navigation bar */
 .navbar {
   width: 100%;
-  background-color: #555;
+  background-color: #3643d3;
   overflow: auto;
   position: fixed; /* Fix navbar to the top */
   top: 0;
@@ -36,11 +36,11 @@ body {
 }
 
 .navbar a:hover {
-  background-color: #000;
+  background-color: #3ebbc6;
 }
 
 .active {
-  background-color: #04AA6D;
+  background-color: #0fa4c9;
 }
 
 /* Style the rest of the page content */
