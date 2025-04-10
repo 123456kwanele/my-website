@@ -24,15 +24,15 @@ body {
   z-index: 1000; /* Ensure it stays above other content */
   display: flex; /* Use flexbox for better layout */
   justify-content: flex-start; /* Align navbar items to the left */
-  padding: 8px 0; /* Adjust padding as needed */
+  padding: 4px 0; /* Adjust padding as needed */
 }
 
 .navbar a {
   text-align: center;
-  padding: 12px;
+  padding: 6px 10px;
   color: white;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 16px;
 }
 
 .navbar a:hover {
