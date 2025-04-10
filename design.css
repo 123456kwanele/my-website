@@ -24,7 +24,7 @@ body {
   z-index: 1000; /* Ensure it stays above other content */
   display: flex; /* Use flexbox for better layout */
   justify-content: flex-start; /* Align navbar items to the left */
-  padding: 12px 0; /* Adjust padding as needed */
+  padding: 8px 0; /* Adjust padding as needed */
 }
 
 .navbar a {
